@@ -1,0 +1,6 @@
+{
+  "summary":  "Implementation plan for mobile optimization and automatic screen orientation rotation for Tactical Realms: 3D Chess:\n1. Screen Orientation & Fullscreen Manager: Automatically attempt landscape lock using screen.orientation.lock('landscape') on launch and on user gesture; render an animated rotating-phone overlay when in portrait mode.\n2. Small-Screen Layout Adaptations: Add swipeable carousel snapping for realm cards and feature pillars on small screens (<480px), comfortable touch-target sizing (min 44px), and compact headers.\n3. In-Game Mobile HUD & Viewport: Optimize 3D camera FOV and board framing for small mobile landscape viewports, compact top status bar, and smooth pause/exit sheet.",
+  "updatedAt":  "2026-11-09T15:19:46.332911357Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}
